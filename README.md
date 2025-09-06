@@ -2,6 +2,7 @@
 
 **DHCP** is a software implementation of a Dynamic Host Configuration Protocol (DHCP) mechanism.
 It uses a trie data structure combined with a bit array to efficiently allocate and manage IP addresses within a given subnet.
+
 ---
 
 ## Motivation
