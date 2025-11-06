@@ -11,13 +11,6 @@ Provide a lightweight DHCP allocator that demonstrates networking concepts such 
 
 ---
 
-## Prerequisites
-
-- Linux OS
-- c compiler (gcc)
-
----
-
 ## API
 
 ### `DHCPCreate`
